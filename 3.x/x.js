@@ -6,6 +6,7 @@ function setup(){
 
 function draw(){
 
-  //your drawing goes here
+  line(30,20,85,75);
+  line(85,20,30,75);
 
 }
